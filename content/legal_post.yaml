@@ -1,0 +1,21 @@
+- id: "legal"
+  web:
+    metaDescription: "Kin Insurance's legal page includes information on terms of service, privacy policy, and other important legal matters."
+    metaTitle: "Legal Disclosures"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "legal"
+    path: "/legal/"
+    parent: "/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    header_text: "Policies & Agreements"
+    sub_header: "Find our legal agreements, terms of service, and privacy policy here."
+    featured_image: "3-f894dbb-wqsk6z"
+    body: "<h2 id=\"agreements\">Agreements</h2>\n<hr />\n<ul>\n<li><a href=\"/images/uploads/subscribers-agrt-7-2-21.pdf\">Subscriber's Agreement and Power of Attorney</a> (PDF)</li>\n<li><a href=\"/images/uploads/network-krm-aif-agreement-effective-1-1-22_executed.pdf\">Attorney-in-Fact Agreement</a> (PDF)</li>\n<li><a href=\"/images/legal/powers-of-sac.pdf\">Powers of the Subscribers' Advisory Committee</a> (PDF)</li>\n</ul>\n<h2 id=\"legalnotices\">Legal Notices</h2>\n<hr />\n<p>Please read these terms carefully before accessing or using this service.</p>\n<ul>\n<li><a href=\"/terms/\">Terms of Service</a></li>\n</ul>\n<h2 id=\"privacypolicy\">Privacy Policy</h2>\n<hr />\n<ul>\n<li><a href=\"/privacy/\">Privacy Policy</a></li>\n<li><a href=\"/privacy/ca/\">California Privacy Policy</a></li>\n</ul>"
